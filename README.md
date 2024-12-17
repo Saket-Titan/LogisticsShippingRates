@@ -18,4 +18,4 @@ Code Review:
 All contributions undergo a code review process.
 
 Licensing.
-Contributors are Licensed.
+Contributions are Licensed.
